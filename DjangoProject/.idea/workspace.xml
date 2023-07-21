@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9804bcfd-36a3-4faf-a086-b12d8913d758" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/Insitu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/OC.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/PrimerPrograma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/ProyectoFinal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/Screenshot 2023-05-14 010726.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/break_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/diccionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/ejemplos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/funciones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/funciones2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/global.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/matrices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/metodoKeys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/myapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/none.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/operadoresLogicos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/preuba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/sleep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/try_except.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/vectores2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/vectores3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/ventores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonWorkSpace/while.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SstiBqB8LFu3T0yjxAQX360jON" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9804bcfd-36a3-4faf-a086-b12d8913d758" name="Changes" comment="" />
+      <created>1689947240566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689947240566</updated>
+      <workItem from="1689947244050" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

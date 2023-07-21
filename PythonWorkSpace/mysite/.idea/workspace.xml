@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfc720f9-7660-454b-9f9b-919e84af70d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Insitu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OC.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimerPrograma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProyectoFinal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenshot 2023-05-14 010726.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../break_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diccionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funciones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funciones2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metodoKeys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../none.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadoresLogicos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preuba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sleep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../try_except.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vectores2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vectores3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ventores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../while.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Skixc3rdUrx8PHbIgtI0PoDjNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/darwi/Desktop/Alexander-cloud-CPU.github.io/PythonWorkSpace/mysite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc720f9-7660-454b-9f9b-919e84af70d3" name="Changes" comment="" />
+      <created>1689697228468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689697228468</updated>
+      <workItem from="1689697246699" duration="242000" />
+      <workItem from="1689697504890" duration="368000" />
+      <workItem from="1689728952612" duration="20000" />
+      <workItem from="1689819004679" duration="5000" />
+      <workItem from="1689868235235" duration="147000" />
+      <workItem from="1689868396379" duration="932000" />
+      <workItem from="1689945595234" duration="56000" />
+      <workItem from="1689946739920" duration="151000" />
+      <workItem from="1689946903904" duration="50000" />
+      <workItem from="1689947052129" duration="187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
